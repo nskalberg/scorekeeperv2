@@ -1,0 +1,170 @@
+[
+    {
+        "score": "130000",
+        "date": "2024-02-28",
+        "location": "quarter world",
+        "user": 1,
+        "game": "tron"
+    },
+    {
+        "score": "125000",
+        "date": "2024-03-05",
+        "location": "quarter world",
+        "game": "galaga",
+        "user": 1
+    },
+    {
+        "score": "75000",
+        "date": "2024-03-05",
+        "location": "quarterworld",
+        "game": "montecar",
+        "user": 1
+    },
+    {
+        "score": "80000",
+        "date": "2024-03-06",
+        "location": "ground kontrol",
+        "game": "montecar",
+        "user": 1
+    },
+    {
+        "date": "2024-03-07",
+        "score": "85600",
+        "location": "quarter world",
+        "game": "galaga",
+        "user": 1
+    },
+    {
+        "score": "135000",
+        "date": "2024-03-08",
+        "location": "ground kontrol",
+        "game": "galaga",
+        "user": 1
+    },
+    {
+        "score": "120000",
+        "date": "2024-03-02",
+        "location": "quarterworld",
+        "game": "mspacman",
+        "user": 1
+    },
+    {
+        "score": "125000",
+        "date": "2024-03-03",
+        "location": "quarterworld",
+        "game": "mspacman",
+        "user": 1
+    },
+    {
+        "score": "250000",
+        "date": "2024-03-06",
+        "location": "quarter world",
+        "game": "digdug",
+        "user": 1
+    },
+    {
+        "score": "100000",
+        "date": "2024-03-07",
+        "location": "ground kontrol",
+        "game": "digdug",
+        "user": 1
+    },
+    {
+        "score": "35000",
+        "date": "2024-03-07",
+        "location": "quarterworld",
+        "game": "dkong",
+        "user": 1
+    },
+    {
+        "score": "40000",
+        "date": "2024-03-08",
+        "location": "quarter world",
+        "game": "dkong",
+        "user": 1
+    },
+    {
+        "score": "117000",
+        "date": "2024-03-06",
+        "location": "quarter world",
+        "game": "mspacman",
+        "user": 1
+    },
+    {
+        "score": "110000",
+        "date": "2024-03-09",
+        "location": "quarter world",
+        "game": "galaga",
+        "user": 1
+    },
+    {
+        "score": "121000",
+        "date": "2024-03-07",
+        "location": "quarter world",
+        "game": "mspacman",
+        "user": 1
+    },
+    {
+        "score": "175000",
+        "date": "2024-03-08",
+        "location": "ground kontrol",
+        "game": "mspacman",
+        "user": 1
+    },
+    {
+        "date": "2024-03-01",
+        "score": "85000",
+        "location": "ground kontrol",
+        "game": "tron",
+        "user": 1
+    },
+    {
+        "score": "30000",
+        "date": "2024-03-20",
+        "location": "quarter world",
+        "game": "asteroid",
+        "user": 1
+    },
+    {
+        "score": "32000",
+        "date": "2024-03-21",
+        "location": "quarter world",
+        "game": "asteroid",
+        "user": 1
+    },
+    {
+        "score": "29000",
+        "date": "2024-03-22",
+        "location": "ground kontrol",
+        "game": "asteroid",
+        "user": 1
+    },
+    {
+        "score": "30000",
+        "date": "2024-03-10",
+        "location": "quarter world",
+        "game": "dkong",
+        "user": 1
+    },
+    {
+        "score": "160000",
+        "date": "2024-03-10",
+        "location": "ground kontrol",
+        "game": "galaga",
+        "user": 1
+    },
+    {
+        "score": "80000",
+        "date": "2024-03-11",
+        "location": "ground kontrol",
+        "game": "arkanoid",
+        "user": 1
+    },
+    {
+        "score": "65000",
+        "date": "2024-03-12",
+        "location": "ground kontrol",
+        "game": "arkanoid",
+        "user": 1
+    }
+]

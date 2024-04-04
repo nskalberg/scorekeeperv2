@@ -1,41 +1,26 @@
 import React from 'react';
-import {
-  ChakraProvider,
-  Box,
-  Text,
-  Link,
-  VStack,
-  Code,
-  Grid,
-  theme,
-} from '@chakra-ui/react';
-import { ColorModeSwitcher } from './ColorModeSwitcher';
-import { Logo } from './Logo';
+import './index.css'
+import Profile from "./pages/Profile.js"
+import Game from "./pages/Game.js"
+import Test from "./pages/Test.js"
+import Search from "./pages/Search.js"
+import WithAction from "./components/Navbar.js"
+import { Routes, Route } from "react-router-dom"
+import { ChakraProvider } from '@chakra-ui/react'
 
 function App() {
   return (
-    <ChakraProvider theme={theme}>
-      <Box textAlign="center" fontSize="xl">
-        <Grid minH="100vh" p={3}>
-          <ColorModeSwitcher justifySelf="flex-end" />
-          <VStack spacing={8}>
-            <Logo h="40vmin" pointerEvents="none" />
-            <Text>
-              Edit <Code fontSize="xl">src/App.js</Code> and save to reload.
-            </Text>
-            <Link
-              color="teal.500"
-              href="https://chakra-ui.com"
-              fontSize="2xl"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learn Chakra
-            </Link>
-          </VStack>
-        </Grid>
-      </Box>
-    </ChakraProvider>
+    <>
+      <ChakraProvider>
+        <WithAction />
+        <Routes>
+          <Route path="profile" element={ <Profile /> } />
+          <Route path="game" element={ <Game /> } />
+          <Route path="test" element={ <Test /> } />
+          <Route path="search" element={ <Search /> } />
+        </Routes>
+      </ChakraProvider>
+    </>
   );
 }
 
